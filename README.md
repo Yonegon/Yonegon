@@ -2,7 +2,7 @@
 # AI × Economics Aspirant @ UTokyo
 
 **Aspiring AI・Economics Specialist**  
-学年・専攻：東京大学 情報理工学系／経済学部<br>
+学年・専攻：東京大学 理科一類
 興味：機械学習、因果推論、市場設計、生成AI
 
 ---
@@ -25,6 +25,5 @@
 
 ---
 ## 📫 Contact
-- Email: your_email@…  
-- Twitter: @your_handle  
+- Email: icecold.20.palmer@gmail.com 
 
